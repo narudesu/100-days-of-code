@@ -37,6 +37,18 @@ My current idea of the project workflow:
 **Links to work**:
 [Day 0x2](https://github.com/narudesu/photo-voter/tree/bca6be93d221cab3ef4aa50dd3ba07bc51ab0ed6)
 
+### Day 0x3: January 5, 2016
+*1.75 Hours*
+
+**Today's Progress**: I have set up the competition routes and created the components. Competitions component renders a list of competitions that are color coded based on their actual state. When you click on a competition's name, you get to a more detailed view where you see the photos.
+
+**Thoughts**: I'll probably use redux in the future, but for now I have just created a wannabestore that acts almost like a store to provide data to multiple components.
+
+**What I plan to do next**: I plan to turn photos into cards to make it easier to view them. I will add some action buttons like Add a vote. I will start working on a fullscreen preview of a photo.
+
+**Links to work**:
+[Day 0x3](https://github.com/narudesu/photo-voter/tree/8860d9b38f1a9efe57e23cd5b575c57ab4539beb)
+
 <!-- ### Day 0x1: January 3, 2016
 *1.5 Hours*
 

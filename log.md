@@ -49,6 +49,18 @@ My current idea of the project workflow:
 **Links to work**:
 [Day 0x3](https://github.com/narudesu/photo-voter/tree/8860d9b38f1a9efe57e23cd5b575c57ab4539beb)
 
+### Day 0x4: January 6, 2016
+*2 Hours*
+
+**Today's Progress**: I have created Photo tiles that display photo's name and vote count. They have a semi-transparent bottom pane that contains the text information. The photos themselves are zoomed in to ensure proper rendering of border ratios at all sizes.
+
+**Thoughts**: Although I planned to use cards, tiles are much better as they allow a bigger portion of the photo to be displayed. The transparent pane also makes it easier to view the photo. The photo will probably need some alignment in the future, but the current centered rendering works now. The tile height will also need to be styled responsively to look better.
+
+**What I plan to do next**: Next time, I am going to add the buttons for fullscreen view and adding to a vote basket. The vote basket is a place that will be used to contain photos you like the most so that you can compare them later and decide for the best one. I will also try to implement the fullscreen view.
+
+**Links to work**:
+[Day 0x4](https://github.com/narudesu/photo-voter/tree/791df4c8ea7376e66b5e7f8c9985fc3c0096ac8f)
+
 <!-- ### Day 0x1: January 3, 2016
 *1.5 Hours*
 

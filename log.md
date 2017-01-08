@@ -72,7 +72,19 @@ My current idea of the project workflow:
 **What I plan to do next**: I'll hopefully won't need to write much competition code. So basically the stuff I hoped to do today.
 
 **Links to work**:
-[Day 0x5](#)
+Day 0x5
+
+### Day 0x6: January 8, 2016
+*1 Hour*
+
+**Today's Progress**: I have created the buttons for basket adding and fullscreen view. I played a bit with css and the way the button feel is quite comfortable. I also attached handlers for the buttons.
+
+**Thoughts**: I did not want to work on the project today as I spent most of the afternoon finishing job related coding. I was quite exhausted and did nothing useful the whole evening. It is quite difficult to go to school for 8 hours a day, work, participate in competitions, learn languages, work on personal projects, have some fun and also sleep once in a while. Stuff like having a social life is completely out of question at the moment. I decided to dedicate more time to sleep as I hope to be more productive that way. Well, I probably need to limit things I need to do and add more things I do because I want but there is no discomfort when I don't do them. I also hope to add video games to my life again, but in a way they refresh me and make me more productive.
+
+**What I plan to do next**: Next time, I will implement the fullscreen preview. If it is easy, I will start working on the voting basket.
+
+**Links to work**:
+[Day 0x6](https://github.com/narudesu/photo-voter/tree/0163b4d57a50ccf9c0bf8dc021ecab6ed29c9b7b)
 
 <!-- ### Day 0x1: January 3, 2016
 *1.5 Hours*

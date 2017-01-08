@@ -61,6 +61,19 @@ My current idea of the project workflow:
 **Links to work**:
 [Day 0x4](https://github.com/narudesu/photo-voter/tree/791df4c8ea7376e66b5e7f8c9985fc3c0096ac8f)
 
+
+### Day 0x5: January 7, 2016
+*5 Hours*
+
+**Today's Progress**: Today, I have worked on a project I am creating for an IoE competition. We are creating an advanced drunkness tester. I have created a webpage to display the results and a server to collect data from the actual devices. I'm not publishing the source code at the moment, but I might in the future. I've also created a basic WiFi connection code with an HTTP GET request on the device (ESP8266 NODEMCU 1.0 with Arduino IDE (I've hopefully typed this the right way, it has so many different names... so confusing))
+
+**Thoughts**: Working on a different set of problems definitely helps. Also, trying to plug in a 2+ pin analog sensor into one analog port is tons of fun...
+
+**What I plan to do next**: I'll hopefully won't need to write much competition code. So basically the stuff I hoped to do today.
+
+**Links to work**:
+[Day 0x5](#)
+
 <!-- ### Day 0x1: January 3, 2016
 *1.5 Hours*
 

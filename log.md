@@ -67,7 +67,7 @@ My current idea of the project workflow:
 
 **Today's Progress**: Today, I have worked on a project I am creating for an IoE competition. We are creating an advanced drunkness tester. I have created a webpage to display the results and a server to collect data from the actual devices. I'm not publishing the source code at the moment, but I might in the future. I've also created a basic WiFi connection code with an HTTP GET request on the device (ESP8266 NODEMCU 1.0 with Arduino IDE (I've hopefully typed this the right way, it has so many different names... so confusing))
 
-**Thoughts**: Working on a different set of problems definitely helps. Also, trying to plug in a 2+ pin analog sensor into one analog port is tons of fun...
+**Thoughts**: Working on a different set of problems definitely helps. Also, trying to plug in a 2+ pin analog sensor into one analog port is tons of fun... Unfortunately, I don't have time for twitter (I need to sleep). I'll start doing the twitter stuff once I have more time. (damn, I need time so badly)
 
 **What I plan to do next**: I'll hopefully won't need to write much competition code. So basically the stuff I hoped to do today.
 

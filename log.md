@@ -86,6 +86,18 @@ Day 0x5
 **Links to work**:
 [Day 0x6](https://github.com/narudesu/photo-voter/tree/0163b4d57a50ccf9c0bf8dc021ecab6ed29c9b7b)
 
+### Day 0x7: January 9, 2016
+*4 Hours*
+
+**Today's Progress**: I have worked on my IoT project again and finally finished it.
+
+**Thoughts**: I need more free time and sleep...
+
+**What I plan to do next**: I would like to
+
+**Links to work**:
+[Day 0x7]()
+
 <!-- ### Day 0x1: January 3, 2016
 *1.5 Hours*
 
